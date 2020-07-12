@@ -1,0 +1,19 @@
+.jumbotron{
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+.footer{
+    background-color: #494e50;
+    color: floralwhite;
+}
+/* .margin-footer{
+    margin-top: 30px;
+    padding-top: 30px;
+} */
+a{
+    color: dodgerblue;
+}
+a:hover{
+    text-decoration: none;
+    color: floralwhite;
+}
