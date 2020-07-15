@@ -1,22 +1,24 @@
 .jumbotron{
-    background-color: #0074e1;
-    /* background-color: #1b9ce5; */
+    /* background-color: #0074e1; */
+    background-color: #328cc1;
     color: floralwhite;
 }
 .footer{
-    background-color: #f79e02;
+    /* background-color: #f79e02; */
+    background-color: #1d2731;
     color: floralwhite;
+    opacity: 0.9;
 }
 /* .margin-footer{
     margin-top: 30px;
     padding-top: 30px;
 } */
 a{
-    color: black;
+    color: floralwhite;
 }
 a:hover{
     text-decoration: none;
-    color: floralwhite;
+    color: #328cc1;
 }
 
 body{
@@ -25,7 +27,8 @@ body{
 }
 
 .bg-custom{
-     background-color: #0074e1;
+     /* background-color: #0074e1; */
+     background-color: #0b3c5d;
      color: floralwhite;
 }
 .breadcrumb{
