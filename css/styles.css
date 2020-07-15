@@ -1,9 +1,10 @@
 .jumbotron{
-    background-color: dodgerblue;
+    background-color: #0074e1;
+    /* background-color: #1b9ce5; */
     color: floralwhite;
 }
 .footer{
-    background-color: #494e50;
+    background-color: #f79e02;
     color: floralwhite;
 }
 /* .margin-footer{
@@ -11,9 +12,19 @@
     padding-top: 30px;
 } */
 a{
-    color: dodgerblue;
+    color: black;
 }
 a:hover{
     text-decoration: none;
     color: floralwhite;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.bg-custom{
+     background-color: #0074e1;
+     color: floralwhite;
 }
