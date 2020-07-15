@@ -18,7 +18,7 @@ a{
 }
 a:hover{
     text-decoration: none;
-    color: #328cc1;
+    color: #0074e1;
 }
 
 body{
@@ -33,5 +33,12 @@ body{
 }
 .breadcrumb{
     background-color: white;
-    color: #f79e02;
+}
+.breadcrumb-item > a{
+    text-decoration: none;
+    color: #0074e1;
+}
+.breadcrumb-item > a:hover{
+    text-decoration: none;
+    color: #0b3c5d;
 }
