@@ -42,3 +42,6 @@ body{
     text-decoration: none;
     color: #0b3c5d;
 }
+address > a{
+    color: #328cc1;
+}
