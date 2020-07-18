@@ -45,3 +45,7 @@ body{
 address > a{
     color: #328cc1;
 }
+.tablehead{
+    background-color: #328cc1;
+    color: floralwhite;
+}
