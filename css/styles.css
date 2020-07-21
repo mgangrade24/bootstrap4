@@ -49,3 +49,26 @@ address > a{
     background-color: #328cc1;
     color: floralwhite;
 }
+.logofull{
+    height: 180px;
+    border-radius: 10px;
+}
+.btn-warningcustom{
+    /* background-color: #bdad91; */
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 11px; */
+    font-weight: 500;
+    font-size: large;
+    color: floralwhite ;
+    width: 250px;
+    height: 60px;
+    background-color: #AD9C80;
+    border-radius: 8px;
+}
+.btn-warningcustom:hover{
+    background-color: #bdad91;
+}
+
+
