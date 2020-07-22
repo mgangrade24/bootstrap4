@@ -13,12 +13,14 @@
     margin-top: 30px;
     padding-top: 30px;
 } */
-a{
-    color: floralwhite;
-}
-a:hover{
+
+.footer a:hover{
     text-decoration: none;
     color: #0074e1;
+}
+
+.footer a{
+    color: floralwhite;
 }
 
 body{
@@ -70,5 +72,10 @@ address > a{
 .btn-warningcustom:hover{
     background-color: #bdad91;
 }
-
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
 
