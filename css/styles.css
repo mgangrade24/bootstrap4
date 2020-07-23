@@ -55,22 +55,8 @@ address > a{
     height: 180px;
     border-radius: 10px;
 }
-.btn-warningcustom{
-    /* background-color: #bdad91; */
-    /* padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 10px;
-    padding-bottom: 11px; */
+.btn-warning{
     font-weight: 500;
-    font-size: large;
-    color: floralwhite ;
-    width: 250px;
-    height: 60px;
-    background-color: #AD9C80;
-    border-radius: 8px;
-}
-.btn-warningcustom:hover{
-    background-color: #bdad91;
 }
 .tab-content {
     border-left: 1px solid #ddd;
@@ -78,4 +64,58 @@ address > a{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    padding: 5%;
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 
