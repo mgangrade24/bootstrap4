@@ -5,9 +5,9 @@
 }
 .footer{
     /* background-color: #f79e02; */
-    background-color: #1d2731;
+    background-color: #1C2331;
     color: floralwhite;
-    opacity: 0.9;
+    opacity: 1;
 }
 /* .margin-footer{
     margin-top: 30px;
@@ -78,4 +78,10 @@ address > a{
     top: 0;
     left: 0;
     min-height: 300px;
+}
+.hr{
+    color: #6351CE;
+    background-color: #6351CE;
+    background: #6351CE;
+    border: 1px solid;
 }
