@@ -2,6 +2,17 @@
     /* background-color: #0074e1; */
     background-color: #328cc1;
     color: floralwhite;
+    margin-top: 10px;
+}
+.logoimage{
+    margin-right: 5px; 
+    margin-left: -15px; 
+    margin-bottom: -5px; 
+    margin-top: -10px;
+}
+
+nav{
+    border-bottom: solid black 1px;
 }
 .footer{
     /* background-color: #f79e02; */
@@ -66,7 +77,8 @@ address > a{
 }
 
 .carousel {
-    background:#AD9C80;
+    background:#1A237E;
+    background: #1C2331;
 }
 
 .carousel-item {
@@ -84,4 +96,17 @@ address > a{
     background-color: #6351CE;
     background: #6351CE;
     border: 1px solid;
+}
+#carouselButton {
+    /* margin-right: 0px;
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1; */
+    background-color: #6351ce;
+    border: none;
+}
+#carouselButton:hover{
+    background-color: #482fd1;
+    border: none;
 }
