@@ -105,6 +105,7 @@ address > a{
     z-index: 1; */
     background-color: #6351ce;
     border: none;
+    border-radius: 0px;
 }
 #carouselButton:hover{
     background-color: #482fd1;
